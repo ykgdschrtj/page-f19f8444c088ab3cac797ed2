@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "f9bea9ed5f0ae9adf492c019",
+  "owner": "ykgdschrtj",
+  "repo": "page-f19f8444c088ab3cac797ed2",
+  "title": "小火箭下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f19f8444c088ab3cac797ed2",
+      "a": "小火箭下载",
+      "b": "",
+      "entity": "小火箭下载",
+      "brand": "小火箭下载",
+      "separator": "",
+      "path": "index.html",
+      "hash": "fd27e3b26d03d1ffb386029f77c08cb76a928885dbe2d6e3ca5b993f56855333",
+      "content": {
+        "keyword1": "小火箭下载",
+        "keyword2": "",
+        "primary_entity": "小火箭下载",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭下载说明机场订阅、VPN 梯子网络加速与客户端下载的关系，并提供使用场景、配置流程、套餐对比和常见问题，便于在官网了解后再获取客户端。",
+          "AI_DESCRIPTION": "小火箭下载说明机场订阅、VPN 梯子网络加速与客户端下载的关系，并提供使用场景、配置流程、套餐对比和常见问题，便于在官网了解后再获取客户端。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>:root{--bg:#fff6f2;--paper:#ffffff;--ink:#241c19;--muted:#5c514c;--coral:#c44734;--deep:#9d3526;--soft:#ffe8e1;--line:#f0d4cb;--sand:#fff1ea}*{box-sizing:border-box}html,body{margin:0;padding:0;max-width:100%;overflow-x:hidden}body{background:var(--bg);color:var(--ink);font-family:'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif;font-size:17px;line-height:1.75}a{color:var(--deep)}a:focus,summary:focus{outline:3px solid var(--coral);outline-offset:2px}.wrap{width:100%;max-width:1080px;margin:0 auto;padding:0 1.1rem}.topbar{background:var(--paper);border-bottom:1px solid var(--line)}.nav{display:flex;flex-wrap:wrap;align-items:center;gap:.55rem 1rem;padding:.85rem 0}.brand{font-weight:800;color:var(--ink);text-decoration:none;font-size:1.15rem}.nav a{color:var(--muted);text-decoration:none;font-weight:700}.hero{padding:1.5rem 0 .4rem}.kicker{display:inline-block;background:var(--soft);color:var(--deep);font-weight:700;padding:.15rem .65rem;border-radius:999px;font-size:.92rem}h1{font-size:1.85rem;line-height:1.35;margin:.65rem 0 .55rem}h2{font-size:1.42rem;line-height:1.4;margin:0 0 .7rem}h3{font-size:1.12rem;line-height:1.45;margin:0 0 .4rem}p{margin:0 0 .8rem}.lead{font-size:1.05rem;color:var(--muted)}.actions{display:flex;flex-wrap:wrap;gap:.7rem;margin:.4rem 0 1rem}.btn{display:inline-block;background:var(--deep);color:#fff;text-decoration:none;padding:.72rem 1.05rem;border-radius:10px;font-weight:700}.btn-ghost{display:inline-block;color:var(--deep);text-decoration:none;padding:.66rem 1rem;border-radius:10px;border:2px solid var(--deep);font-weight:700}.section{padding:1.15rem 0}.band{display:flex;flex-wrap:wrap;gap:1rem;align-items:stretch}.band.reverse{flex-direction:row-reverse}.band>*{flex:1 1 18rem;min-width:0}.card,.aside,.guide,.plan,.note{border:1px solid var(--line);border-radius:14px;padding:1rem 1.05rem}.card{background:var(--paper)}.aside{background:var(--sand)}.guide{background:var(--paper);border-top:6px solid var(--coral);margin:0 0 1rem}.step{display:flex;gap:.75rem;padding:.7rem 0;border-bottom:1px solid var(--line)}.step:last-child{border-bottom:0}.num{flex:0 0 2.1rem;width:2.1rem;height:2.1rem;border-radius:50%;background:var(--deep);color:#fff;font-weight:800;display:flex;align-items:center;justify-content:center}.step div{min-width:0}ul{margin:.25rem 0 .8rem;padding-left:1.15rem}li{margin:.25rem 0}.plans{display:flex;flex-wrap:wrap;gap:.9rem}.plan{flex:1 1 16rem;min-width:0;background:var(--paper)}.plan.featured{border:2px solid var(--coral);background:#fff8f6}.badge{display:inline-block;background:var(--deep);color:#fff;font-size:.85rem;font-weight:700;padding:.1rem .5rem;border-radius:999px}.price{font-size:1.5rem;font-weight:800;margin:.35rem 0 .1rem}.annual{color:var(--deep);font-weight:700}details{background:var(--paper);border:1px solid var(--line);border-radius:12px;padding:.85rem 1rem;margin:0 0 .7rem}summary{font-weight:700;cursor:pointer;color:var(--ink)}details p,details li{color:var(--muted)}.note{background:var(--soft)}code{font-family:ui-monospace,Consolas,monospace;font-size:.92rem;overflow-wrap:anywhere;word-break:break-all}.foot{padding:1rem 0 2rem;color:var(--muted);font-size:.95rem}@media(max-width:800px){.band,.band.reverse{flex-direction:column}h1{font-size:1.55rem}body{font-size:16.5px}}</style><header class=\"topbar\"><div class=\"wrap nav\"><a class=\"brand\" href=\"#top\">小火箭下载</a><a href=\"#about\">简介</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#plans\">套餐</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">问答</a></div></header><main id=\"top\"><div class=\"wrap hero\"><p class=\"kicker\">官网说明 · 订阅与客户端</p><h1>小火箭下载：VPN 网络加速与客户端下载</h1><p class=\"lead\">本页说明小火箭下载如何把机场订阅、梯子式线路转发和加速器式选路放进同一套流程。先了解场景与套餐，再按配置顺序获取客户端、导入订阅并验证连接。页面内链仅指向本节锚点，不跳转第三方网盘。</p><div class=\"actions\"><a class=\"btn\" href=\"#guide\">先看配置流程</a><a class=\"btn-ghost\" href=\"#download\">客户端获取说明</a></div></div><section class=\"section\" id=\"about\"><div class=\"wrap band\"><div class=\"card\"><h2>品牌简介</h2><p>小火箭下载是面向个人和小组的网络加速服务说明。机场订阅负责下发当前可用节点，客户端负责在手机或电脑上建立连接。两者缺一不可：只有软件时列表是空的，只有订阅链接时设备也无法发起连接。</p><p>这里说的梯子，是把访问请求转到所选线路的代理连接，不是额外安装来路不明的插件。加速器在本服务里指按用途挑选线路，例如普通浏览、流媒体或长连接，而不是承诺某一固定延迟。</p><h3>服务边界</h3><p>适合远程协作、课程资料、已获授权的影音，以及团队共用出口。不提供入侵、扫描、盗取账户或伪装他人收款页面的能力。客户端请从各系统官方商店或作者发布页获取；订阅地址以开通后的账户信息为准。</p></div><aside class=\"aside\"><h3>阅读本页可以完成什么</h3><ul><li>分清订阅、节点和客户端各自的作用</li><li>按设备数和流量选择基础版、旗舰版或团队版</li><li>按固定顺序完成导入、选路和连通检查</li><li>知道流量用尽、设备超限和更新订阅时怎么处理</li></ul><p>价格与权益以本页套餐区公示为准。推荐标记只表示功能更完整，不是评分或用户评价。</p></aside></div></section><section class=\"section\" id=\"scenes\"><div class=\"wrap band reverse\"><div class=\"card\"><h2>使用场景</h2><h3>个人跨网络访问</h3><p>出差时酒店网络不稳定，需要打开公司文档或课程平台；平板和手机希望共用同一份订阅，而不是各买一条无法管理的线路。基础版的设备数适合这种轻量用法。</p><h3>流媒体与长连接</h3><p>若主要需求是已授权的视频、音乐，或游戏、会议这类长连接，应先看解锁范围。基础版提供基础流媒体和普通线路节点池；旗舰版写明全节点原生流媒体解锁，并包含 IPLC 专线的游戏加速优化。</p><h3>团队统一出口</h3><p>多人共用时，设备数和工单响应比单价更重要。团队版提高流量与在线设备数，并支持企业定制路由和专属客户经理，适合由一人分发订阅、其他人只负责连接的协作方式。</p></div><aside class=\"aside\"><h3>选场景时先问三件事</h3><ul><li>同时在线的手机、电脑一共几台</li><li>主要是网页资料，还是视频和长连接</li><li>是否需要专人处理故障，而不是自己换节点</li></ul><p>答完再看套餐，比先下载客户端再回头改方案更省事。</p></aside></div></section><section class=\"section\" id=\"guide\"><div class=\"wrap\"><p class=\"kicker\">本页重点</p><h2>配置流程</h2><p>下面的顺序是小火箭下载建议的完整路径。跳过开通直接找安装包，或跳过更新直接连接，是多数第一次失败的原因。</p><div class=\"guide\"><div class=\"band\"><div><h3>一、准备</h3><div class=\"step\"><span class=\"num\">1</span><div><strong>确认系统满足客户端要求</strong><p>在安装前看该客户端对系统版本的说明。过旧的系统往往能装上，但无法导入新订阅格式。</p></div></div><div class=\"step\"><span class=\"num\">2</span><div><strong>选定套餐并取得订阅</strong><p>在套餐区确定版本。开通后账户页会给出订阅链接和备用链接。不要把链接发到公开群组，它等同于你的线路使用权。</p></div></div><div class=\"step\"><span class=\"num\">3</span><div><strong>核对设备名额</strong><p>基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。超出后，通常是最早连接的设备被挤下线，而不是流量被额外扣减。</p></div></div></div><aside class=\"aside\"><h3>导入前核对</h3><ul><li>链接以开通页显示的完整地址为准</li><li>复制时不要带上空格或换行</li><li>备用链接只在主链接更新失败时使用</li><li>示例占位不是可用地址：https://example.invalid/sub/你的令牌</li></ul></aside></div></div><div class=\"guide\"><div class=\"band reverse\"><div><h3>二、导入订阅</h3><div class=\"step\"><span class=\"num\">4</span><div><strong>打开官方渠道安装的客户端</strong><p>选择从链接导入或添加订阅。名称可用“小火箭下载-主力”，方便以后区分备用配置。</p></div></div><div class=\"step\"><span class=\"num\">5</span><div><strong>粘贴并更新</strong><p>保存后执行更新，直到节点列表出现。列表为空时，先对照账户页检查链接是否截断，再换备用订阅，不要反复安装不明安装包。</p></div></div><div class=\"step\"><span class=\"num\">6</span><div><strong>按用途选路</strong><p>网页和资料优先选地理位置近、负载说明正常的节点。旗舰版可优先尝试标注 IPLC 的线路处理游戏或会议。普通节点池不保证与专线相同的稳定性。</p></div></div></div><aside class=\"aside\"><h3>三、验证与分流</h3><div class=\"step\"><span class=\"num\">7</span><div><strong>打开连接后再测</strong><p>用浏览器打开一个你平时能够访问的页面，确认不是仅显示“已连接”而实际无响应。</p></div></div><div class=\"step\"><span class=\"num\">8</span><div><strong>需要分流时再改规则</strong><p>可让国内常用网站直连，其余走代理。规则名称以客户端实际菜单为准，不同客户端用词不完全一样。</p></div></div></aside></div></div><div class=\"guide\"><h3>四、日常维护</h3><div class=\"step\"><span class=\"num\">9</span><div><strong>定期更新订阅</strong><p>节点会调整。建议每周在客户端里手动更新一次；更换网络环境后也可以立即更新。</p></div></div><div class=\"step\"><span class=\"num\">10</span><div><strong>换机时先处理旧设备</strong><p>在旧手机上断开连接，或等超限挤下线后，再于新设备导入同一订阅。不要为绕过设备数把链接发给不相关的人。</p></div></div><div class=\"step\"><span class=\"num\">11</span><div><strong>看懂流量周期</strong><p>流量按套餐说明的每月额度计算。用尽后加速暂停，直到下一周期或你改用更高额度的版本。暂停不等于账户被删除，订阅链接仍应保密。</p></div></div></div></div></section><section class=\"section\" id=\"plans\"><div class=\"wrap\"><h2>套餐与权益</h2><p>以下为当前公示方案。年付价格按各档已给出的全年金额计算，不是另加折扣说明。选择时以设备数、流量和解锁范围为准。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"btn\" href=\"#guide\">按此套餐去配置</a></article><article class=\"plan featured\"><p class=\"badge\">推荐方案</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"btn\" href=\"#guide\">按此套餐去配置</a></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"btn\" href=\"#guide\">按此套餐去配置</a></article></div></div></section><section class=\"section\" id=\"download\"><div class=\"wrap band\"><div class=\"card\"><h2>客户端下载</h2><p>小火箭下载的官网说明只负责告诉你装什么、从哪里装、装完如何导入。本页不提供破解包、描述文件或网盘镜像。安装包一律走各平台官方渠道，订阅只从你的开通信息复制。</p><h3>手机</h3><p>iOS 请在 App Store 用该客户端开发者公布的正式名称搜索并购买，不要安装聊天工具发来的未知描述文件。Android 请从应用商店或客户端作者的发布页安装，装完只导入自己的订阅。</p><h3>桌面</h3><p>Windows 与 macOS 选择支持你所持订阅格式的桌面客户端，核对版本号后再运行。公司电脑若限制安装，先征得设备管理人同意，不要关闭安全软件来强行运行来历不明的文件。</p><p><a href=\"#guide\">返回配置流程</a>，从第 4 步开始导入。</p></div><aside class=\"aside\"><h3>如何识别正规获取方式</h3><ul><li>渠道是系统官方商店或作者发布页</li><li>不要求你提供短信验证码或邮箱密码</li><li>不把订阅链接和付款码放在同一张来源不明的图片里</li><li>页面若突然要求下载“加速插件”，应停止并回到本页步骤</li></ul><p>小火箭下载不会在本页放置外部下载地址。开通后的地址只出现在账户信息中。</p></aside></div></section><section class=\"section\" id=\"faq\"><div class=\"wrap\"><h2>常见问题</h2><details><summary>小火箭下载和机场订阅是什么关系？</summary><p>小火箭下载把可用线路整理成机场订阅，客户端负责导入并连接。订阅决定你能看到哪些节点、有多少流量和几台设备；客户端决定在哪一台设备上生效。只收藏本页并不能完成加速，还需要开通后的订阅和官方渠道的客户端。</p></details><details><summary>只有客户端、没有订阅，可以当加速器使用吗？</summary><p>不可以。客户端是开关和规则界面，线路来自订阅。未导入订阅时，即使软件显示安装成功，也没有可连接的节点。反过来，只保存订阅链接而不安装客户端，链接也不会自己生效。</p></details><details><summary>第一次使用必须按配置流程的顺序吗？</summary><p>建议严格按准备、导入、选路、验证、维护的顺序。先装来路不明的包、再找订阅，很容易装到与账户无关的软件。先更新节点再打开连接，也能避免连上旧列表里已经撤回的线路。</p></details><details><summary>基础版、旗舰版和团队版怎么选？</summary><p>三台以内设备、每月约 100GB、只需基础流媒体和普通节点，选基础版，月付 ¥15，年付 ¥150。需要 300GB、五台设备、全节点原生流媒体、IPLC 游戏优化和全天优先工单，选旗舰版，月付 ¥35，年付 ¥350。二十台设备、1000GB、高带宽节点、定制路由和客户经理，选团队版，月付 ¥85，年付 ¥850。</p></details><details><summary>为什么反复强调官方渠道下载客户端？</summary><p>搜索“客户端下载”时，常见风险是安装包被掉包。不明安装包可能读取账户或替换订阅。小火箭下载只说明获取方式，不代分发安装包。请使用 App Store、正规应用商店或作者发布页，并拒绝额外的“加速插件”。</p></details><details><summary>已经显示连接，但部分网站仍打不开，先查什么？</summary><p>先更新订阅，再换同地区另一条节点。接着确认没有超过套餐设备数，并核对手机或电脑的系统时间。仍失败时，切换 Wi-Fi 与蜂窝网络，排除本地网络限制。旗舰版和团队版可按工单或客户经理渠道说明故障发生的步骤；基础版按普通支持处理。不要把完整订阅链接贴到公开场合求助。</p></details></div></section><div class=\"wrap\"><p class=\"note\">小火箭下载用于合法的远程办公、学习与已授权内容访问。连接质量受本地网络和所选节点影响，本页不编造测速分数或用户评价。套餐权益以公示列表为准。</p></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer class=\"foot\"><div class=\"wrap\"><p>小火箭下载官网说明 · <a href=\"#top\">返回顶部</a> · <a href=\"#plans\">查看套餐</a> · <a href=\"#guide\">配置流程</a></p><p>订阅地址在开通后于账户信息提供。客户端请从各平台官方渠道下载。</p></div></footer>",
+          "hash": "83669a897a305079a379b368f0b3cdd01bba86b636e01dd851a301796c31b2d1",
+          "seo": {
+            "title": "小火箭下载官网：VPN 梯子网络加速与客户端下载",
+            "keywords": "小火箭下载,小火箭下载官网,VPN,梯子,网络加速,加速器,客户端下载,机场订阅,官网下载",
+            "description": "小火箭下载说明机场订阅、VPN 梯子网络加速与客户端下载的关系，并提供使用场景、配置流程、套餐对比和常见问题，便于在官网了解后再获取客户端。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ey777.cn",
+    "host": "p-fee7844ca9.ey777.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "4e1711453c88b1bdc66c813112ca71f38dc2e261a2973c2a2bcffe76df98193a",
+    "sitemap.xml": "534abc91165bf6a1479b9212b240f5ea904d9762dee87c6f2bc7261dbb32cc0d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "55090a9f25b37971ae69860dddcd58eb0a3fb8ee96ff630945851023b11a37f1",
+    "robots.txt": "6e736f0f9de09b87c5f1d1ebfa6fafe36b9345cacdebec25275bffbac7fbecb3",
+    "58262c90f8df1742eeae142b66ead4a9.txt": "50b4c68a11c57e4aaf44d6d51150305a2c94aa8c4c38326cdaa43d325458f447"
+  },
+  "revision": "148dc066d87285f9d76f42524aa12fa3a3a768b0d79312deabddc24616139e9e"
+}
